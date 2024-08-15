@@ -1,0 +1,4 @@
+node_modules/
+UI/node_modules/
+.env
+UI/.env
